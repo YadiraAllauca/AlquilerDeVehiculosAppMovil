@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948231392793",
+    "firebase_url": "https://alquilerbase-a276e-default-rtdb.firebaseio.com",
+    "project_id": "alquilerbase-a276e",
+    "storage_bucket": "alquilerbase-a276e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948231392793:android:66a356bf1a434b52716488",
+        "android_client_info": {
+          "package_name": "com.example.appallauca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948231392793-lftb6f7ek65hruvae4bhlrabvqm3t6bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEA_kcNH0eq-KIL-oKzWXQDTb1ARmhss4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948231392793-lftb6f7ek65hruvae4bhlrabvqm3t6bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
